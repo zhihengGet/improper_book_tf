@@ -1,0 +1,1 @@
+{"errorMessage": "'first_name'", "errorType": "KeyError", "stackTrace": ["  File \"/var/task/hello.py\", line 2, in handler\n    message = 'Hello {} {}!'.format(event['first_name'], event['last_name'])\n"]}
